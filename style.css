@@ -1,5 +1,5 @@
 *{
-    margin:1rem;
+    margin:1rem; 
 }
 header{
     display: flex;
@@ -8,6 +8,7 @@ header{
     font-weight: 50;
     font-size: 0.8em;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: -1rem;
 }
 
 ul{
@@ -24,12 +25,13 @@ color:red;
 }
 nav{
     width: 40vw;
-    margin-top: 0.5px;
+    margin-top: 0px;
 }
 .bigimage{
     width: 95vw;
 /*margin-left:1rem;
 margin-bottom: 5rem;*/
+margin-top: -2rem;
 }
 .container{
     display:flex;
